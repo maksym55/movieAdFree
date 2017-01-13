@@ -1,0 +1,15 @@
+{
+  "name": "movieAdFree",
+  "version": "0.0.1",
+  "description": "Watch movies without ads",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Movie"
+  ],
+  "devDependencies": {
+    "electron": "^1.4.1"
+  }
+}
